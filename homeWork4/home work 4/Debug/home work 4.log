@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\dell\desktop\lập trình\c++\дз\homework4\home work 4\source.cpp(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\desktop\lập trình\c++\дз\homework4\home work 4\source.cpp(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\desktop\lập trình\c++\дз\homework4\home work 4\source.cpp(444): warning C4101: 'n': unreferenced local variable
+  home work 4.vcxproj -> C:\Users\DELL\Desktop\Lập trình\C++\ДЗ\homeWork4\Debug\home work 4.exe
